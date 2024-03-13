@@ -36,3 +36,7 @@ set noshowmode
 syntax on 
 set nocompatible
 let g:AutoPairsShortcutFastWrap=''
+
+set backupdir=/tmp//
+set directory=/tmp//
+set undodir=/tmp//
